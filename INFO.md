@@ -1,2 +1,2 @@
 ### SEIUN
-This file is set to read-only, meaning you can only read this file.
+A project in the works. Initiated March 24, 2024 around 1:30AM.
